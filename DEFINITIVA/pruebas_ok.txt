@@ -1,0 +1,5 @@
+# Archivo con instrucciones VALIDAS para el analizador
+map(lambda x: x*2, [1,2,3])
+filter(lambda n: n>=5, numeros)
+reduce(lambda a,b: a+b, range(1,10))
+map(multiplicar, lista1, lista2)

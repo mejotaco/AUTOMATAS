@@ -1,0 +1,4 @@
+# Archivo con instrucciones INVALIDAS para el analizador
+map(lambda x: x*2 [1,2,3])
+filter(lambda n: n>=5, [3,7,4,9]
+reduce(lambda a b: a+b, range(1,10))
